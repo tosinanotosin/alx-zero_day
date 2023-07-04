@@ -1,2 +1,4 @@
 #!/binbash
 echo "ALX School is so cool!"
+#!/bin/bash
+echo "ALX Scholl"
